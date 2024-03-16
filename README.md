@@ -1,4 +1,4 @@
-# Garnet
+## Garnet
 
 Garnet is a secure and performant browser isolation prototype that replays remote browser draw commands in local browser via WebAssembly. 
 
